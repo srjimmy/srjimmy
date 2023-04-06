@@ -1,8 +1,7 @@
-### Hi there 👋
+### 👋 Hello there! Welcome to my GitHub profile!
 
-#### I'am a Django developer and Fedora user.
+👨‍💻 I'm a software developer who loves working with Python, JavaScript, Django, Docker, Kubernetes, and Linux. I'm constantly exploring new technologies and expanding my skillset.
 
-##### BIO
+🔥 I'm particularly interested in React, Vue, Go, and Rust.
 
-- ⚙️ Daily: `.py`, `.js`, `.html`, `.css`
-- ✏️ Currently learning: Go, Vue.js
+📚 I enjoy keeping up with the latest developments.
