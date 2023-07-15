@@ -1,7 +1,11 @@
-### 👋 Hello there! Welcome to my GitHub profile!
+<h1 align="center">Hello there 👋, I'm SrJimmy</h1>
+<h3 align="center">Sysadmin and backend developer from Spain</h3>
 
-👨‍💻 I'm a software developer who loves working with `Python`, `JavaScript`, `Django`, `Docker`, `Kubernetes`, and `Linux`. I'm constantly exploring new technologies and expanding my skillset.
+- 👨‍💻 I love working with `Python`, `TypeScript`, `Django`, `Docker`, `Kubernetes`, and `Linux`.
 
-🔥 I'm particularly interested in `React`, `Vue`, `Go`, and `Rust`.
+- 🌱 I'm currently learning `React` and `Go`.
 
-📚 I enjoy keeping up with the latest developments.
+- 📚 I'm constantly exploring new technologies and expanding my skillset.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srjimmy&show_icons=true&locale=en"
+    alt="srjimmy" /></p>
