@@ -7,5 +7,5 @@
 
 - 📚 I'm constantly exploring new technologies and expanding my skillset.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srjimmy&show_icons=true&locale=en"
-    alt="srjimmy" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=srjimmy&show_icons=true&locale=en"
+    alt="srjimmy" /></div>
